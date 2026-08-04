@@ -1,3 +1,1 @@
-Use (run <program>) to execute a brainfk program. To write characters, use #\c instead of #\.
-
-Program should be surrounded by "".
+Use (run "program") to execute a brainfk program. To write characters, use #\c instead of #\.
